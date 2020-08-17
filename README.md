@@ -48,10 +48,10 @@ git://github.com/KVSSetty/ML-DL-notebooks-on-Binder.git
 
 
 ### Binder Compatible DL and ML Notebooks
-In this repository you will  find few  Machine Learning and Deep Learning tutorials written by me using **Jupyetr lab**.
-And they are Binder compatible so you can use these interactive and reproduceible  notebooks with the given binder link
+In this repository you will  find few  Machine Learning and Deep Learning tutorials written by me.
+And they are Binder compatible so you can use these interactive and reproduceible notebooks with the given binder link
 or **Binder-Launch** icon and use it without installing any other software including python and jupyter on your system.
-The only needed tool is a latest version a Internet browser.
+The only needed tool is a latest version Internet browser in your system..
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KVSSetty/ML-DL-notebooks-on-Binder/master)
 
