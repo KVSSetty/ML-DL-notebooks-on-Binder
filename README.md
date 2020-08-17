@@ -12,7 +12,8 @@
 - online classes: [ML and DL guru](https://www.mlanddlguru.com/b)
 
 This repository contains notebooks and other files associated with my
-**Machine Learning tutorials** primarily using [scikit-learn](http://scikit-learn.org) and [XGBoost](https://pypi.org/project/xgboost/).
+**Machine Learning and Deep Learning tutorials** primarily using [scikit-learn](http://scikit-learn.org) , [XGBoost](https://pypi.org/project/xgboost/),
+[PyTorch.](https://pytorch.org/) , [TensorFlow2.0](https://www.tensorflow.org/)
 
 ## Installation Notes
 This tutorial requries the following packages:
@@ -31,16 +32,16 @@ This tutorial requries the following packages:
 - `Keras` latest version : https://keras.io/
 
 The easiest way to get these is to use the [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://store.continuum.io/) environment manager.
-I suggest downloading and installing [anaconda](https://www.anaconda.com/products/individual) the easiest way as most of the packages pre installed and you can start my tutorials immediatly.
+I suggest downloading and installing [anaconda](https://www.anaconda.com/products/individual) the easiest way, as most of the packages pre installed and you can start my tutorials immediatly.
 
 ## Downloading the Tutorial Materials
-I would highly recommend using [GitHub Desktop](https://desktop.github.com/)if you are Windows, not only for this tutorial, but for the
+I would highly recommend using [GitHub Desktop](https://desktop.github.com/) if you are on Windows, not only for this tutorial, but for the
 general betterment of your life.  Once GitHub Desktop is installed, you can clone the
 material in this tutorial by using the git address shown above or use the command line tool after installing just git:
 
 ```
 git clone
-git://github.com/KVSSetty/ml-notebooks.git
+git://github.com/KVSSetty/ML-DL-notebooks-on-Binder.git
 ```
 
 **If you can't or don't want to install any of the packages including python, anaconda and git. there is a link (button) below to directly reach the tutorial notebooks in your browser. Yes it is true run python code without installing python in your system. It is not Magic. Try it !** 
@@ -54,6 +55,4 @@ The only needed tool is a latest version a Internet browser.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KVSSetty/ML-DL-notebooks-on-Binder/master)
 
-Access this Binder at the following URL:
 
-https://mybinder.org/v2/gh/KVSSetty/ML-DL-notebooks-on-Binder/master
