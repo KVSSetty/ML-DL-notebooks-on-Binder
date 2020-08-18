@@ -31,7 +31,7 @@ This tutorial requries the following packages:
 - `PyTorch` version 1.0.0 or later version https://pytorch.org/
 - `Keras` latest version : https://keras.io/
 
-The easiest way to get these is to use the [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://store.continuum.io/) environment manager.
+The easiest way to get these is to use the [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://store.continuum.io/) environment distribution.
 I suggest downloading and installing [anaconda](https://www.anaconda.com/products/individual) the easiest way, as most of the packages pre installed and you can start my tutorials immediatly.
 
 ## Downloading the Tutorial Materials
