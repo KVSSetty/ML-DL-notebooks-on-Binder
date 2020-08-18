@@ -12,7 +12,7 @@
 - online classes: [ML and DL guru](https://www.mlanddlguru.com/b)
 
 This repository contains notebooks and other files associated with my
-**Machine Learning and Deep Learning tutorials** primarily using [scikit-learn](http://scikit-learn.org) , [XGBoost](https://pypi.org/project/xgboost/),
+**Deep Learning Tutorials** primarily using [keras](https://keras.io/),
 [PyTorch.](https://pytorch.org/) , [TensorFlow2.0](https://www.tensorflow.org/)
 
 ## Installation Notes
