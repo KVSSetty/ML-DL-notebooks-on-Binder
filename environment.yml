@@ -9,3 +9,6 @@ dependencies:
   - seaborn
   - scikit-learn
   - graphviz
+  - pytorch
+  - tensorflow
+  - keras
