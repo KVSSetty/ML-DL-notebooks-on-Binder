@@ -9,7 +9,7 @@
 - github: [KVSSetty](https://github.com/KVSSetty)
 - facebook: [KvsSetty](https://www.facebook.com/kvssetty)
 - medium: [KV Subbaiah Setty](https://medium.com/@kvssetty)
-- online classes: [ML and DL guru](https://www.mlanddlguru.com/b)
+
 
 This repository contains notebooks and other files associated with my
 **Deep Learning Tutorials** primarily using [keras](https://keras.io/),
